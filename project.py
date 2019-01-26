@@ -11,7 +11,10 @@ for data in website:
 	try:
 		tables = pd.read_html(data[:-1])
 		print(tables)
-		#tables.to_csv("data.csv",index=False)
+		try:
+			tables[3].to_csv("data.csv",index=False)
+		except:
+			pass
 	except ValueError or urllib2.HTTPError:
 		pass 
 	

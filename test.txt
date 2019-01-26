@@ -1,0 +1,197 @@
+[                                                  0                          ...                                                                        212
+0                                                 NaN                        ...                                                                        NaN
+1   The Internet Traffic Report monitors the flow ...                        ...                          The Internet Traffic Report (ITR) wants to con...
+2                                                 NaN                        ...                                                                        NaN
+3   Home  ÿÿÿÿ|ÿÿÿÿFAQ  ÿÿÿÿ|ÿÿÿÿEvents  ÿÿÿÿ|ÿÿÿÿ...                        ...                                                                        NaN
+4                                                 NaN                        ...                                                                        NaN
+5                                                 NaN                        ...                                                                        NaN
+6                                                 NaN                        ...                                                                        NaN
+7   Router  Location  Current Index  Response Time...                        ...                                                                        NaN
+8                                              Router                        ...                                                                        NaN
+9                                    anhm7204.exo.com                        ...                                                                        NaN
+10                            mc-gateway.lansmart.com                        ...                                                                        NaN
+11                              dnsauth1.sys.gtei.net                        ...                                                                        NaN
+12                 rx0ar-technicare.ed.bigpipeinc.com                        ...                                                                        NaN
+13              gw02.wlfdle.phub.net.cable.rogers.com                        ...                                                                        NaN
+14                               anguhub14.net.ubc.ca                        ...                                                                        NaN
+15                       loopback0.gw2.den4.alter.net                        ...                                                                        NaN
+16                                router.firstcls.com                        ...                                                                        NaN
+17             atl-datacenter-gw2.capitalinternet.com                        ...                                                                        NaN
+18                       loopback0.gw9.chi2.alter.net                        ...                                                                        NaN
+19                         cisco-gnarly.n-connect.net                        ...                                                                        NaN
+20                           crystal-cavern.ctcco.com                        ...                                                                        NaN
+21                                   cisco.syssrc.com                        ...                                                                        NaN
+22                           router-in.nemetschek.net                        ...                                                                        NaN
+23                    pos1-0-0-155m.ar1.bos1.gblx.net                        ...                                                                        NaN
+24                lan-d32-0606-0578.uninet-ide.com.mx                        ...                                                                        NaN
+25                          rr1.torixt.avantel.net.mx                        ...                                                                        NaN
+26                          rr2.gdlmha.avantel.net.mx                        ...                                                                        NaN
+27                          rr1.reyixt.avantel.net.mx                        ...                                                                        NaN
+28                      revenant.netservicesgroup.com                        ...                                                                        NaN
+29                       border0-e0.oc48-ypsi.hdl.com                        ...                                                                        NaN
+30                               wormhole.homeisp.com                        ...                                                                        NaN
+31                          pwps-core01.powerpulse.cc                        ...                                                                        NaN
+32                                    isp.state.nh.us                        ...                                                                        NaN
+33                                sugaree.arorapc.com                        ...                                                                        NaN
+34                                    ac-gw.dandy.net                        ...                                                                        NaN
+35                      180.atm6-0.gw7.nyc9.alter.net                        ...                                                                        NaN
+36                                 wookie.core.3z.net                        ...                                                                        NaN
+37                    sl-bb21-pen-15-0.sprintlink.net                        ...                                                                        NaN
+38                                    gw-inet.ktc.com                        ...                                                                        NaN
+39                        core-router.centramedia.net                        ...                                                                        NaN
+40                                   www.xmission.com                        ...                                                                        NaN
+41                                  er01.asbn.eli.net                        ...                                                                        NaN
+42                        core1-sttl.sitespecific.net                        ...                                                                        NaN
+43                                   gate.netwrx1.com                        ...                                                                        NaN
+44                 core-1601-bmia-elkwpop-1-3.mia.net                        ...                                                                        NaN
+45                         5dl-dst-rt2.5ninesdata.com                        ...                                                                        NaN
+46  This graph shows the North America Traffic Ind...                        ...                                                                        NaN
+47  This graph shows the North America Response Ti...                        ...                                                                        NaN
+48  This graph shows the North America Packet Loss...                        ...                                                                        NaN
+49                                            AnalogX                        ...                                                                        NaN
+50  <!-- google_ad_client = "pub-5623084330058329"...                        ...                                                                        NaN
+51  <!-- google_ad_client = "pub-5623084330058329"...                        ...                                                                        NaN
+52  The Internet Traffic Report (ITR) wants to con...                        ...                                                                        NaN
+53  The Internet Traffic Report (ITR) wants to con...                        ...                                                                        NaN
+54  <!-- google_ad_client = "pub-5623084330058329"...                        ...                                                                        NaN
+55                                                NaN                        ...                                                                        NaN
+
+[56 rows x 213 columns],                                                    0                                                  1   2
+0                                                NaN  The Internet Traffic Report monitors the flow ... NaN
+1  Home  ÿÿÿÿ|ÿÿÿÿFAQ  ÿÿÿÿ|ÿÿÿÿEvents  ÿÿÿÿ|ÿÿÿÿ...                                                NaN NaN
+2                                                NaN                                                NaN NaN
+3                                                NaN                                                NaN NaN,     0                                                  1
+0 NaN  North America  Avg. Response Time: 21 Avg. Pac...,                                                   0                            1              2   ...     188  189  190
+0   Router  Location  Current Index  Response Time...                       Router       Location ...   100.0  0.0  0.0
+1                                              Router                     Location  Current Index ...     NaN  NaN  NaN
+2                                    anhm7204.exo.com         California (Anaheim)              0 ...     NaN  NaN  NaN
+3                             mc-gateway.lansmart.com          California (Fresno)             98 ...     NaN  NaN  NaN
+4                               dnsauth1.sys.gtei.net     California (Los Angeles)             99 ...     NaN  NaN  NaN
+5                  rx0ar-technicare.ed.bigpipeinc.com            Canada (Edmonton)             95 ...     NaN  NaN  NaN
+6               gw02.wlfdle.phub.net.cable.rogers.com             Canada (Ontario)            100 ...     NaN  NaN  NaN
+7                                anguhub14.net.ubc.ca           Canada (Vancouver)              0 ...     NaN  NaN  NaN
+8                        loopback0.gw2.den4.alter.net            Colorado (Denver)              0 ...     NaN  NaN  NaN
+9                                 router.firstcls.com                      Georgia              0 ...     NaN  NaN  NaN
+10             atl-datacenter-gw2.capitalinternet.com            Georgia (Atlanta)              0 ...     NaN  NaN  NaN
+11                       loopback0.gw9.chi2.alter.net           Illinois (Chicago)            100 ...     NaN  NaN  NaN
+12                         cisco-gnarly.n-connect.net                         Iowa            100 ...     NaN  NaN  NaN
+13                           crystal-cavern.ctcco.com              Kansas (Lenexa)              0 ...     NaN  NaN  NaN
+14                                   cisco.syssrc.com                     Maryland             97 ...     NaN  NaN  NaN
+15                           router-in.nemetschek.net          Maryland (Columbia)            100 ...     NaN  NaN  NaN
+16                    pos1-0-0-155m.ar1.bos1.gblx.net       Massachusetts (Boston)             92 ...     NaN  NaN  NaN
+17                lan-d32-0606-0578.uninet-ide.com.mx           Mexico (Chihuahua)            100 ...     NaN  NaN  NaN
+18                          rr1.torixt.avantel.net.mx            Mexico (Coahuila)             96 ...     NaN  NaN  NaN
+19                          rr2.gdlmha.avantel.net.mx         Mexico (Guadalajara)             96 ...     NaN  NaN  NaN
+20                          rr1.reyixt.avantel.net.mx          Mexico (Tamaulipas)             95 ...     NaN  NaN  NaN
+21                      revenant.netservicesgroup.com           Michigan (Saginaw)            100 ...     NaN  NaN  NaN
+22                       border0-e0.oc48-ypsi.hdl.com         Michigan (Ypsilanti)              0 ...     NaN  NaN  NaN
+23                               wormhole.homeisp.com       Missouri (Kansas City)            100 ...     NaN  NaN  NaN
+24                          pwps-core01.powerpulse.cc           Nevada (Las Vegas)             94 ...     NaN  NaN  NaN
+25                                    isp.state.nh.us                New Hampshire            100 ...     NaN  NaN  NaN
+26                                sugaree.arorapc.com                   New Jersey            100 ...     NaN  NaN  NaN
+27                                    ac-gw.dandy.net   New Jersey (Atlantic City)              0 ...     NaN  NaN  NaN
+28                      180.atm6-0.gw7.nyc9.alter.net               New York (NYC)              0 ...     NaN  NaN  NaN
+29                                 wookie.core.3z.net            Ohio (Cincinnati)              0 ...     NaN  NaN  NaN
+30                    sl-bb21-pen-15-0.sprintlink.net  Pennsylvania (Philadelphia)              0 ...     NaN  NaN  NaN
+31                                    gw-inet.ktc.com                        Texas            100 ...     NaN  NaN  NaN
+32                        core-router.centramedia.net                Texas (Pampa)              0 ...     NaN  NaN  NaN
+33                                   www.xmission.com        Utah (Salt Lake City)             96 ...     NaN  NaN  NaN
+34                                  er01.asbn.eli.net           Virginia (Ashburn)              0 ...     NaN  NaN  NaN
+35                        core1-sttl.sitespecific.net         Washington (Seattle)              0 ...     NaN  NaN  NaN
+36                                   gate.netwrx1.com                    Wisconsin             92 ...     NaN  NaN  NaN
+37                 core-1601-bmia-elkwpop-1-3.mia.net          Wisconsin (Elkhorn)              0 ...     NaN  NaN  NaN
+38                         5dl-dst-rt2.5ninesdata.com          Wisconsin (Madison)            100 ...     NaN  NaN  NaN
+
+[39 rows x 191 columns],                                          0                            1       ...                          3                4
+0                                   Router                     Location       ...         Response Time (ms)  Packet Loss (%)
+1                         anhm7204.exo.com         California (Anaheim)       ...                          0              100
+2                  mc-gateway.lansmart.com          California (Fresno)       ...                         17                0
+3                    dnsauth1.sys.gtei.net     California (Los Angeles)       ...                         10                0
+4       rx0ar-technicare.ed.bigpipeinc.com            Canada (Edmonton)       ...                         49                0
+5    gw02.wlfdle.phub.net.cable.rogers.com             Canada (Ontario)       ...                          0                0
+6                     anguhub14.net.ubc.ca           Canada (Vancouver)       ...                          0              100
+7             loopback0.gw2.den4.alter.net            Colorado (Denver)       ...                          0              100
+8                      router.firstcls.com                      Georgia       ...                          0              100
+9   atl-datacenter-gw2.capitalinternet.com            Georgia (Atlanta)       ...                          0              100
+10            loopback0.gw9.chi2.alter.net           Illinois (Chicago)       ...                          0                0
+11              cisco-gnarly.n-connect.net                         Iowa       ...                          0                0
+12                crystal-cavern.ctcco.com              Kansas (Lenexa)       ...                          0              100
+13                        cisco.syssrc.com                     Maryland       ...                         26                0
+14                router-in.nemetschek.net          Maryland (Columbia)       ...                          0                0
+15         pos1-0-0-155m.ar1.bos1.gblx.net       Massachusetts (Boston)       ...                         72                0
+16     lan-d32-0606-0578.uninet-ide.com.mx           Mexico (Chihuahua)       ...                          0                0
+17               rr1.torixt.avantel.net.mx            Mexico (Coahuila)       ...                         40                0
+18               rr2.gdlmha.avantel.net.mx         Mexico (Guadalajara)       ...                         35                0
+19               rr1.reyixt.avantel.net.mx          Mexico (Tamaulipas)       ...                         47                0
+20           revenant.netservicesgroup.com           Michigan (Saginaw)       ...                          0                0
+21            border0-e0.oc48-ypsi.hdl.com         Michigan (Ypsilanti)       ...                          0              100
+22                    wormhole.homeisp.com       Missouri (Kansas City)       ...                          0                0
+23               pwps-core01.powerpulse.cc           Nevada (Las Vegas)       ...                         55                0
+24                         isp.state.nh.us                New Hampshire       ...                          0                0
+25                     sugaree.arorapc.com                   New Jersey       ...                          0                0
+26                         ac-gw.dandy.net   New Jersey (Atlantic City)       ...                          0              100
+27           180.atm6-0.gw7.nyc9.alter.net               New York (NYC)       ...                          0              100
+28                      wookie.core.3z.net            Ohio (Cincinnati)       ...                          0              100
+29         sl-bb21-pen-15-0.sprintlink.net  Pennsylvania (Philadelphia)       ...                          0              100
+30                         gw-inet.ktc.com                        Texas       ...                          0                0
+31             core-router.centramedia.net                Texas (Pampa)       ...                          0              100
+32                        www.xmission.com        Utah (Salt Lake City)       ...                         34                0
+33                       er01.asbn.eli.net           Virginia (Ashburn)       ...                          0              100
+34             core1-sttl.sitespecific.net         Washington (Seattle)       ...                          0              100
+35                        gate.netwrx1.com                    Wisconsin       ...                         74                0
+36      core-1601-bmia-elkwpop-1-3.mia.net          Wisconsin (Elkhorn)       ...                          0              100
+37              5dl-dst-rt2.5ninesdata.com          Wisconsin (Madison)       ...                          0                0
+
+[38 rows x 5 columns],                                                    0   1
+0  This graph shows the North America Traffic Ind... NaN
+1  This graph shows the North America Response Ti... NaN
+2  This graph shows the North America Packet Loss... NaN,          0
+0  AnalogX,                                                    0                                                  1
+0  <!-- google_ad_client = "pub-5623084330058329"...  <!-- google_ad_client = "pub-5623084330058329"...
+1  <!-- google_ad_client = "pub-5623084330058329"...                                                NaN,                                                    0
+0  <!-- google_ad_client = "pub-5623084330058329"...,                                                    0                                                  1
+0  The Internet Traffic Report (ITR) wants to con...  The Internet Traffic Report (ITR) wants to con...
+1  The Internet Traffic Report (ITR) wants to con...                                                NaN,                                                    0
+0  The Internet Traffic Report (ITR) wants to con...]
+                                                  0                            1              2   ...     188  189  190
+0   Router  Location  Current Index  Response Time...                       Router       Location ...   100.0  0.0  0.0
+1                                              Router                     Location  Current Index ...     NaN  NaN  NaN
+2                                    anhm7204.exo.com         California (Anaheim)              0 ...     NaN  NaN  NaN
+3                             mc-gateway.lansmart.com          California (Fresno)             98 ...     NaN  NaN  NaN
+4                               dnsauth1.sys.gtei.net     California (Los Angeles)             99 ...     NaN  NaN  NaN
+5                  rx0ar-technicare.ed.bigpipeinc.com            Canada (Edmonton)             95 ...     NaN  NaN  NaN
+6               gw02.wlfdle.phub.net.cable.rogers.com             Canada (Ontario)            100 ...     NaN  NaN  NaN
+7                                anguhub14.net.ubc.ca           Canada (Vancouver)              0 ...     NaN  NaN  NaN
+8                        loopback0.gw2.den4.alter.net            Colorado (Denver)              0 ...     NaN  NaN  NaN
+9                                 router.firstcls.com                      Georgia              0 ...     NaN  NaN  NaN
+10             atl-datacenter-gw2.capitalinternet.com            Georgia (Atlanta)              0 ...     NaN  NaN  NaN
+11                       loopback0.gw9.chi2.alter.net           Illinois (Chicago)            100 ...     NaN  NaN  NaN
+12                         cisco-gnarly.n-connect.net                         Iowa            100 ...     NaN  NaN  NaN
+13                           crystal-cavern.ctcco.com              Kansas (Lenexa)              0 ...     NaN  NaN  NaN
+14                                   cisco.syssrc.com                     Maryland             97 ...     NaN  NaN  NaN
+15                           router-in.nemetschek.net          Maryland (Columbia)            100 ...     NaN  NaN  NaN
+16                    pos1-0-0-155m.ar1.bos1.gblx.net       Massachusetts (Boston)             92 ...     NaN  NaN  NaN
+17                lan-d32-0606-0578.uninet-ide.com.mx           Mexico (Chihuahua)            100 ...     NaN  NaN  NaN
+18                          rr1.torixt.avantel.net.mx            Mexico (Coahuila)             96 ...     NaN  NaN  NaN
+19                          rr2.gdlmha.avantel.net.mx         Mexico (Guadalajara)             96 ...     NaN  NaN  NaN
+20                          rr1.reyixt.avantel.net.mx          Mexico (Tamaulipas)             95 ...     NaN  NaN  NaN
+21                      revenant.netservicesgroup.com           Michigan (Saginaw)            100 ...     NaN  NaN  NaN
+22                       border0-e0.oc48-ypsi.hdl.com         Michigan (Ypsilanti)              0 ...     NaN  NaN  NaN
+23                               wormhole.homeisp.com       Missouri (Kansas City)            100 ...     NaN  NaN  NaN
+24                          pwps-core01.powerpulse.cc           Nevada (Las Vegas)             94 ...     NaN  NaN  NaN
+25                                    isp.state.nh.us                New Hampshire            100 ...     NaN  NaN  NaN
+26                                sugaree.arorapc.com                   New Jersey            100 ...     NaN  NaN  NaN
+27                                    ac-gw.dandy.net   New Jersey (Atlantic City)              0 ...     NaN  NaN  NaN
+28                      180.atm6-0.gw7.nyc9.alter.net               New York (NYC)              0 ...     NaN  NaN  NaN
+29                                 wookie.core.3z.net            Ohio (Cincinnati)              0 ...     NaN  NaN  NaN
+30                    sl-bb21-pen-15-0.sprintlink.net  Pennsylvania (Philadelphia)              0 ...     NaN  NaN  NaN
+31                                    gw-inet.ktc.com                        Texas            100 ...     NaN  NaN  NaN
+32                        core-router.centramedia.net                Texas (Pampa)              0 ...     NaN  NaN  NaN
+33                                   www.xmission.com        Utah (Salt Lake City)             96 ...     NaN  NaN  NaN
+34                                  er01.asbn.eli.net           Virginia (Ashburn)              0 ...     NaN  NaN  NaN
+35                        core1-sttl.sitespecific.net         Washington (Seattle)              0 ...     NaN  NaN  NaN
+36                                   gate.netwrx1.com                    Wisconsin             92 ...     NaN  NaN  NaN
+37                 core-1601-bmia-elkwpop-1-3.mia.net          Wisconsin (Elkhorn)              0 ...     NaN  NaN  NaN
+38                         5dl-dst-rt2.5ninesdata.com          Wisconsin (Madison)            100 ...     NaN  NaN  NaN
+
+[39 rows x 191 columns]
