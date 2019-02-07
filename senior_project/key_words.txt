@@ -1,0 +1,9 @@
+Response Time
+Packet Loss
+Network up
+Website Name
+Last Down
+Internet
+Phone
+No network or reception
+Total Blackout
