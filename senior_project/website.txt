@@ -1,4 +1,4 @@
-https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp,0
+https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp,0,0
 http://internettrafficreport.com/namerica.htm,01,4
 https://www.isitdownrightnow.com/xfinity.com.html,01,1
 https://istheservicedown.com/problems/att,01,0
