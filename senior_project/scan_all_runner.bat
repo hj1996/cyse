@@ -1,0 +1,1 @@
+python -c "import project_request; project_request.scan_all()"

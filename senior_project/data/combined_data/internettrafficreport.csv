@@ -1,0 +1,334 @@
+Router,Location,Current Index,Response Time (ms),Packet Loss (%),Time,Source,Provider
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 14 Feb 2019 17:03:58,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 21 Feb 2019 19:42:48,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 21 Feb 2019 19:39:07,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 21 Feb 2019 19:24:37,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 21 Feb 2019 16:30:50,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 21 Feb 2019 19:26:19,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 21 Feb 2019 19:41:28,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 14 Feb 2019 17:05:21,internettrafficreport,namerica
+anhm7204.exo.com,California (Anaheim),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+mc-gateway.lansmart.com,California (Fresno),98,17,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+dnsauth1.sys.gtei.net,California (Los Angeles),99,10,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+rx0ar-technicare.ed.bigpipeinc.com,Canada (Edmonton),95,49,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+gw02.wlfdle.phub.net.cable.rogers.com,Canada (Ontario),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+anguhub14.net.ubc.ca,Canada (Vancouver),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+loopback0.gw2.den4.alter.net,Colorado (Denver),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+router.firstcls.com,Georgia,0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+atl-datacenter-gw2.capitalinternet.com,Georgia (Atlanta),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+loopback0.gw9.chi2.alter.net,Illinois (Chicago),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+cisco-gnarly.n-connect.net,Iowa,100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+crystal-cavern.ctcco.com,Kansas (Lenexa),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+cisco.syssrc.com,Maryland,97,26,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+router-in.nemetschek.net,Maryland (Columbia),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+pos1-0-0-155m.ar1.bos1.gblx.net,Massachusetts (Boston),92,72,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+lan-d32-0606-0578.uninet-ide.com.mx,Mexico (Chihuahua),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+rr1.torixt.avantel.net.mx,Mexico (Coahuila),96,40,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+rr2.gdlmha.avantel.net.mx,Mexico (Guadalajara),96,35,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+rr1.reyixt.avantel.net.mx,Mexico (Tamaulipas),95,47,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+revenant.netservicesgroup.com,Michigan (Saginaw),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+border0-e0.oc48-ypsi.hdl.com,Michigan (Ypsilanti),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+wormhole.homeisp.com,Missouri (Kansas City),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+pwps-core01.powerpulse.cc,Nevada (Las Vegas),94,55,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+isp.state.nh.us,New Hampshire,100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+sugaree.arorapc.com,New Jersey,100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+ac-gw.dandy.net,New Jersey (Atlantic City),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+180.atm6-0.gw7.nyc9.alter.net,New York (NYC),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+wookie.core.3z.net,Ohio (Cincinnati),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+sl-bb21-pen-15-0.sprintlink.net,Pennsylvania (Philadelphia),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+gw-inet.ktc.com,Texas,100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+core-router.centramedia.net,Texas (Pampa),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+www.xmission.com,Utah (Salt Lake City),96,34,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+er01.asbn.eli.net,Virginia (Ashburn),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+core1-sttl.sitespecific.net,Washington (Seattle),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+gate.netwrx1.com,Wisconsin,92,74,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+core-1601-bmia-elkwpop-1-3.mia.net,Wisconsin (Elkhorn),0,0,100,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica
+5dl-dst-rt2.5ninesdata.com,Wisconsin (Madison),100,0,0,Thu 14 Feb 2019 17:02:21,internettrafficreport,namerica

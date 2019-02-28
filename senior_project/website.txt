@@ -4,3 +4,4 @@ https://www.isitdownrightnow.com/xfinity.com.html,01,0,0
 https://istheservicedown.com/problems/att,01,0,0
 https://outage.report/us/xfinity,01,0,0
 https://downdetector.com/status/att,0,0,1
+https://istheservicedown.com/problems/att/map,1,0,0

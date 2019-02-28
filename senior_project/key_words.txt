@@ -1,4 +1,5 @@
 Response Time
+ms.ResponseTime
 Packet Loss
 Network up
 Website Name
@@ -15,3 +16,5 @@ Landline problems
 Email reading issues
 Website down
 No network or reception
+LastDown
+DownFor

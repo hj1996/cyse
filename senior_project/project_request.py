@@ -8,7 +8,7 @@ import requests
 
 def twitter_remover(data):#removes comments and twitter text from data
 	data_cleaned=re.sub(r"comments.+",'-',data)
-	print data_cleaned.encode("utf-8")
+	#print data_cleaned.encode("utf-8")
 	return data_cleaned
 	
 
@@ -47,72 +47,74 @@ def text_finder(text,words_list): #looks for text that are in the word list file
 def csv_writer(data,website): #save the data as a csv file 
 	clean_Web=spliter(website) #runs the spliter fuction
 	#print clean_Web
-	output_csv=open(clean_Web+"-notable_"+str(time.time())+".csv","w") #adds no table to state that the data was not made with pandas
-	for infor in data:
-		infor=str(infor)
-		infor=re.sub(r"[^A-z 1-9.]+|[ ]",",",infor) #splits a text follow by number with a newline 
-		output_csv.write(infor+"\n") #writes the data and adds a new line
+	if len(data) > 0:
+		output_csv=open("data/"+clean_Web+"-notable_"+str(time.time())+".csv","w") #adds no table to state that the data was not made with pandas
+		for infor in data:
+			infor=str(infor)
+			infor=re.sub(r"[^A-z 1-9.]+|[ ]",",",infor) #splits a text follow by number with a newline 
+			infor=infor.replace(",.",",")
+			output_csv.write(infor+"\n") #writes the data and adds a new line
 	
 ssl._create_default_https_context = ssl._create_unverified_context #stop ssl errors 
-website_file=open("website.txt","r") #file with all of the website
-providers_file=open("providers.txt","r") #file with all of the provider ex att and comcast 
-#opens and reads needed files
-providers=providers_file.readlines()
-website=website_file.readlines()
-data_output=open("data.csv","w")
-key_words_file=open("key_words.txt","r") #file with all of the words to look for 
-key_words=key_words_file.readlines()
+def scan_all():
+	website_file=open("website.txt","r") #file with all of the website
+	providers_file=open("providers.txt","r") #file with all of the provider ex att and comcast 
+	#opens and reads needed files
+	providers=providers_file.readlines()
+	website=website_file.readlines()
+	key_words_file=open("key_words.txt","r") #file with all of the words to look for 
+	key_words=key_words_file.readlines()
 
-for data in website:
-#looks for website with a provider in the url to create additional url for other providers 
-	for provider in providers: 
-		if provider[-1] in data:
-			url_list=providers_Adder(providers,data,provider)
-			website=website+url_list
-			website=list(set(website))
-			#break
-		else:
-			pass
-	
-for data in website:
-	data=data.split(",") #splits the websites by , to create a list 
-	#print data
-	url=data[0]
-	if "0" in data[1]: #0 in the season entry mean that the website has data that is not in a table  
-		relevent_Data=[] #empty list for useful data 
-		content = requests.get(url)
-		content = content.text    #opens the website to grab that data in it
-		soup = BeautifulSoup(content,"html5lib")
-		#print len(data)
-		text_data=soup.get_text() #get all of the text data
-		text_data=text_data.splitlines() #create a list with data split by new line
-		ctr=0
-		for lines in text_data: #removes extra spaces in the data
-			lines_location=text_data.index(lines)
-			lines=lines.replace(" ","")
-			text_data[lines_location]=lines
-		text_data_string=" ".join(text_data) #join the data with a space inbetween the text
-		if "1" in data[3]:	
-			text_data_string=twitter_remover(text_data_string)
-		found_text=text_finder(text_data_string,key_words) #runs the fext_finder fuction 
-		csv_writer(found_text,url) #writes the data into a file
-		#except urllib2.HTTPError, e:
-		#	#print "error connecting to "+url
-		#	pass
-		#except:#better error handling
-		#	#print data[0]
-	if "1" in data[1]: #1 means that there is data that is in a table so pandas can grab it 
-		try:
-			content=requests.get(url)
-			tables = pd.read_html(content.text) #get the data using pandas
-			#tables = pd.fillna(0)
-			#print tables
-			filename=spliter(url) #runs that function to clean up the url 
-			tables[int(data[2].replace("\n",""))].to_csv(filename+"_"+str(time.time())+".csv",index=False) #save the data as a csv file
+	for data in website:
+	#looks for website with a provider in the url to create additional url for other providers 
+		for provider in providers: 
+			if provider[-1] in data:
+				url_list=providers_Adder(providers,data,provider)
+				website=website+url_list
+				website=list(set(website))
+				#break
+			else:
+				pass
+		
+	for data in website:
+		data=data.split(",") #splits the websites by , to create a list 
+		#print data
+		url=data[0]
+		if "0" in data[1]: #0 in the season entry mean that the website has data that is not in a table  
+			relevent_Data=[] #empty list for useful data 
+			print url
+			content = requests.get(url)
+			content = content.text    #opens the website to grab that data in it
+			soup = BeautifulSoup(content,"html5lib")
+			#print len(data)
+			text_data=soup.get_text() #get all of the text data
+			text_data=text_data.splitlines() #create a list with data split by new line
+			for lines in text_data: #removes extra spaces in the data
+				lines_location=text_data.index(lines)
+				lines=lines.replace(" ","")
+				text_data[lines_location]=lines
+			text_data_string=" ".join(text_data) #join the data with a space inbetween the text
+			if "1" in data[3]:	
+				text_data_string=twitter_remover(text_data_string)
+			found_text=text_finder(text_data_string,key_words) #runs the fext_finder fuction 
+			csv_writer(found_text,url) #writes the data into a file
+			#except urllib2.HTTPError, e:
+			#	#print "error connecting to "+url
+			#	pass
+			#except:#better error handling
+			#	#print data[0]
+		if "1" in data[1]: #1 means that there is data that is in a table so pandas can grab it 
+			try:
+				content=requests.get(url)
+				tables = pd.read_html(content.text) #get the data using pandas
+				#tables = pd.fillna(0)
+				#print tables
+				filename=spliter(url) #runs that function to clean up the url
+				tables[int(data[2].replace("\n",""))].to_csv("data/"+filename+"_"+str(time.time())+".csv",index=False) #save the data as a csv file
 
-		except ValueError:#add error handling for bad websites 
-		#	#print "error connecting to"+url
-			pass
-		#except:
-		#	#print "error connecting to "+url
-		#	pass
+			except ValueError:#add error handling for bad websites 
+			#	#print "error connecting to"+url
+				pass
+			#except:
+			#	#print "error connecting to "+url
+			#	pass
