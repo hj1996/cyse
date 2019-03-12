@@ -18,3 +18,13 @@ Website down
 No network or reception
 LastDown
 DownFor
+TV
+Wi-fi
+E-mail
+Mobile app not working
+TV channels not working
+Can't login
+Internet speed issues
+TV freezing
+TV pixelation
+Cell service down

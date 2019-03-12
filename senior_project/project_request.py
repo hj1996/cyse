@@ -48,12 +48,27 @@ def csv_writer(data,website): #save the data as a csv file
 	clean_Web=spliter(website) #runs the spliter fuction
 	#print clean_Web
 	if len(data) > 0:
-		output_csv=open("data/"+clean_Web+"-notable_"+str(time.time())+".csv","w") #adds no table to state that the data was not made with pandas
+		output_csv=open("data/"+clean_Web+"_notable-_"+str(time.time())+".csv","w") #adds no table to state that the data was not made with pandas
 		for infor in data:
 			infor=str(infor)
 			infor=re.sub(r"[^A-z 1-9.]+|[ ]",",",infor) #splits a text follow by number with a newline 
-			infor=infor.replace(",.",",")
-			output_csv.write(infor+"\n") #writes the data and adds a new line
+			#infor=infor.replace(",.",".")
+			#infor=infor.replace(".,",".")
+			infor=infor.replace(",\n","\n")
+			infor=infor.split(",")
+			if len(infor)>1:
+				infor[1]="".join(infor[1:])
+			else: 
+				infor.append("0")
+			infor[1]=infor[1]+"\n"	
+			if "mail" in infor[1]:
+				infor[1]=infor[1].replace("mail","")
+				infor[0]=infor[0]+"-mail"
+			if "fi" in infor[1]:
+				infor[1]=infor[1].replace("fi","")
+				infor[0]=infor[0]+"-fi"
+			print infor
+			output_csv.write(infor[0]+","+infor[1]) #writes the data and adds a new line
 	
 ssl._create_default_https_context = ssl._create_unverified_context #stop ssl errors 
 def scan_all():
@@ -110,7 +125,7 @@ def scan_all():
 				#tables = pd.fillna(0)
 				#print tables
 				filename=spliter(url) #runs that function to clean up the url
-				tables[int(data[2].replace("\n",""))].to_csv("data/"+filename+"_"+str(time.time())+".csv",index=False) #save the data as a csv file
+				tables[int(data[2].replace("\n",""))].to_csv("data/"+filename+"odd-_"+str(time.time())+".csv",index=False) #save the data as a csv file
 
 			except ValueError:#add error handling for bad websites 
 			#	#print "error connecting to"+url

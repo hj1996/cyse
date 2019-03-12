@@ -7,7 +7,7 @@ import re
 def file_opener():
 	master_index={}
 	for filename in glob.glob('*.csv'):
-		#print filename
+		print filename
 		date=filename.split("_")
 		date=date[1]
 		date=date.split(".")
@@ -28,8 +28,11 @@ def file_opener():
 			df["Source"]=source
 			df["Provider"]=provider
 			#print df
-		elif "withhead" in filename:
+		elif "withhead" in filename or "map" in filename:
 			df = pd.read_csv(filename)
+			df["Source"]=source
+			df["Provider"]=provider
+			df["Time/date"]=time.strftime("%a %d %b %Y %H:%M:%S",time.gmtime(date))
 		else:
 			df = pd.read_csv(filename)
 			new_header=df.iloc[0]
@@ -55,18 +58,34 @@ def combiner():
 	for header in unque_header_list:
 		r = re.compile(header+".+notable")
 		r2= re.compile(header+".+")
+		r3=re.compile(header+".+withhead")
 		header_notable=list(filter(r.match, table_headers))
+		header_withheader=list(filter(r3.match, table_headers))
 		header_table=list(filter(r2.match, table_headers))
 		header_table=list(set(header_table)-set(header_notable))
+		header_table=list(set(header_table)-set(header_withheader))
 		notable_index=[]
 		for items in header_notable:
 			location=table_headers.index(items)
 			location=table_data[location]
 			notable_index.append(location)
+		
+		withheader_index=[]
+		for items in header_withheader:
+			location=table_headers.index(items)
+			location=table_data[location]
+			withheader_index.append(location)
+		try:
+			combine_withheader=pd.concat(withheader_index)
+			combine_withheader.to_csv("combined_data/"+str(header)+"with_header"+".csv",index=False)
+			combine_index.update({header+" with header":combine_withheader})
+		except ValueError:
+			pass
+		
 		try:
 			combine_notable=pd.concat(notable_index)
 			combine_notable.to_csv("combined_data/"+str(header)+"no_table"+".csv",index=False)
-			combine_index.update({header+" no table":combine_notable})
+			combine_index.update({header+" no table":combine_notable})	
 			table_index=[]
 			for items in header_table:
 				location=table_headers.index(items)
