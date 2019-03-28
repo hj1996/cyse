@@ -22,3 +22,5 @@ def internettrafficreport():
 		tables.to_csv("data/"+"internettrafficreport-_"+str(date)+".csv",index=False)
 	except ValueError:
 		pass
+
+		

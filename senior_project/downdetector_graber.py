@@ -7,12 +7,7 @@ import time #import the module for time base fuction
 import requests 
 import string
 
-def downdetector():
-	f=open("providers.txt","r")
-	data=f.readlines()
-	date=time.time()
-
-	for provider in data:
+def downdetector(provider):
 		try:
 			provider=provider.replace("\n","")
 			print provider
@@ -74,3 +69,10 @@ def downdetector():
 		except IndexError:
 			print provider
 			pass
+	
+f=open("providers.txt","r")
+data=f.readlines()
+date=time.time()
+for provider in data:
+	table_list.append(downdetector(provider))
+downdetector_currentdata=pd.concat(table_list)

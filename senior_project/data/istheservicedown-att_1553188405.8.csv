@@ -1,0 +1,51 @@
+Location,Reports,Status,Phone,TV,Date/Time collected,Provider,Source,E-mail,Internet,Wi-fi,Total Blackout
+"Chicago, IL",1622, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Dallas, TX",1517, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Houston, TX",798, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Atlanta, GA",649, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Los Angeles, CA",640, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Detroit, MI",505, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Fort Worth, TX",344, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Orlando, FL",297, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Irving, TX",290, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Charlotte, NC",283, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Columbus, OH",266, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Cleveland, OH",263, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Austin, TX",241, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Miami, FL",197, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Center Line, MI",194, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Indianapolis, IN",193, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Sacramento, CA",168, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Milwaukee, WI",165, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Oakland, CA",159, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"San Antonio, TX",147, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Danville, CA",143, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Canton, GA",132, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Concord, CA",120, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Norcross, GA",117, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Nashville, TN",115, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"San Jose, CA",112, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"New York City, NY",111, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Seattle, WA",105, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"St. Louis, MO",104, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Trenton, MI",102, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Katy, TX",102, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Kansas City, MO",98, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Minneapolis, MN",95, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"San Diego, CA",92, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Jacksonville, FL",91, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Irvine, CA",90, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Raleigh, NC",89, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Arlington, TX",85, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Brooklyn, NY",81, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Fullerton, CA",78, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Plano, TX",69, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Fort Lauderdale, FL",64, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Stone Mountain, GA",63, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Tampa, FL",63, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Birmingham, AL",61, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Louisville, KY",58, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Pittsburgh, PA",58, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"McKinney, TX",54, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Spring, TX",52, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%
+"Riverside, CA",49, Problems detected ,36.55%,3.50%,Thu 21 Mar 2019 13:13:25,att,Is the service down,5.09%,43.28%,6.44%,5.13%

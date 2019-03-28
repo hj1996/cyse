@@ -7,14 +7,14 @@ import time #import the module for time base fuction
 import requests 
 
 def isitdown():
-	f=open("providers.txt","r")
+	f=open("C:\Users\juwan\Desktop\Cyse\senior_project\providers.txt","r")
 	data=f.readlines()
 	date=time.time()
 
 	for provider in data:
 		try:
 			provider=provider.replace("\n","")
-			print provider
+			#print provider
 			content = requests.get("https://www.isitdownrightnow.com/"+provider+".com.html")
 			#content=requests.get("https://www.isitdownrightnow.com/comcast.com.html")
 			#content = content.text    #opens the website to grab that data in it
@@ -33,6 +33,7 @@ def isitdown():
 			combine_tables['Ping Time(ms.)'] = combine_tables['Ping Time(ms.)'].str.extract('(\d*\.?\d*)', expand=False).astype(float)
 			print combine_tables
 			combine_tables.to_csv("data/"+"isitdownrightnow-"+provider+"_"+str(date)+".csv",index=False)
+			data=combine_tables
 		except ValueError:
-			print provider
+			#print provider
 			pass

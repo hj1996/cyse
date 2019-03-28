@@ -1,0 +1,7 @@
+Date/Time,How long ago,Issue,Location,Provider,Reports in last 20 minutes,Source,Website down ,Internet speed issues ,Internet down ,Everything is down ,Cell service down 
+Thu 21 Mar 2019 17:33:13,4h,Internet down,"Clarkston, MI",AT&T,3,Outage Report,7%,7%,40%,20%,27%
+Thu 21 Mar 2019 17:33:13,2h,Internet down,TX,AT&T,3,Outage Report,7%,7%,40%,20%,27%
+Thu 21 Mar 2019 17:33:13,1h,Internet speed issues,"Littleton, CO",AT&T,3,Outage Report,7%,7%,40%,20%,27%
+Thu 21 Mar 2019 17:33:13,16m,Internet down,"Sheboygan, WI",AT&T,3,Outage Report,7%,7%,40%,20%,27%
+Thu 21 Mar 2019 17:33:13,8m,Cell service down,"Temple, TX",AT&T,3,Outage Report,7%,7%,40%,20%,27%
+Thu 21 Mar 2019 17:33:13,4m,Cell service down,"Goldthwaite, TX",AT&T,3,Outage Report,7%,7%,40%,20%,27%
